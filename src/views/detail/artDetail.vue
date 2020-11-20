@@ -95,7 +95,7 @@ import {mixins} from '@/assets/js/mixin.js'
     margin-bottom: 10px;
 }
 .article{
-    padding: 9px
+    padding: 9px;
 }
     .artdetail{
         padding: 49px 0;
