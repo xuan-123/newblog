@@ -96,6 +96,8 @@ import {mixins} from '@/assets/js/mixin.js'
 }
 .article{
     padding: 10px;
+    
+    
 }
     .artdetail{
         padding: 49px 0;
